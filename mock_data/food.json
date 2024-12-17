@@ -1,0 +1,206 @@
+{
+    "nam_prik_pla_too": {
+        "English": "Chili Dip with Fried Mackerel",
+        "Thai": "น้ำพริกปลาทู",
+        "Ingredient": [
+            "Mackerel",
+            "Chili",
+            "Garlic",
+            "Shallots",
+            "Shrimp paste",
+            "Lime juice",
+            "Vegetables"
+        ]
+    },
+    "khanom_krok": {
+        "English": "Coconut-Rice Pancakes",
+        "Thai": "ขนมครก",
+        "Ingredient": [
+            "Rice flour",
+            "Coconut milk",
+            "Sugar",
+            "Salt",
+            "Spring onions"
+        ]
+    },
+    "pad_thai": {
+        "English": "Stir-Fried Rice Noodles",
+        "Thai": "ผัดไทย",
+        "Ingredient": [
+            "Rice noodles",
+            "Tamarind sauce",
+            "Shrimp",
+            "Chicken",
+            "Tofu",
+            "Egg",
+            "Bean sprouts",
+            "Peanuts",
+            "Lime",
+            "Chives"
+        ]
+    },
+    "satay_gai": {
+        "English": "Grilled Chicken Skewers",
+        "Thai": "สะเต๊ะไก่",
+        "Ingredient": [
+            "Chicken",
+            "Coconut milk",
+            "Turmeric powder",
+            "Curry powder",
+            "Sugar",
+            "Peanut sauce",
+            "Cucumber relish"
+        ]
+    },
+    "tod_mun_pla": {
+        "English": "Thai Fish Cakes",
+        "Thai": "ทอดมันปลา",
+        "Ingredient": [
+            "Fish paste",
+            "Red curry paste",
+            "Kaffir lime leaves",
+            "Green beans",
+            "Egg",
+            "Fish sauce"
+        ]
+    },
+    "nam_tok_moo": {
+        "English": "Spicy Grilled Pork Salad",
+        "Thai": "น้ำตกหมู",
+        "Ingredient": [
+            "Grilled pork",
+            "Lime juice",
+            "Fish sauce",
+            "Chili powder",
+            "Roasted rice powder",
+            "Mint leaves",
+            "Shallots",
+            "Cilantro"
+        ]
+    },
+    "pad_see_ew": {
+        "English": "Stir-Fried Wide Rice Noodles",
+        "Thai": "ผัดซีอิ๊ว",
+        "Ingredient": [
+            "Wide rice noodles",
+            "Soy sauce",
+            "Chinese broccoli",
+            "Egg",
+            "Garlic",
+            "Pork or chicken",
+            "Sugar"
+        ]
+    },
+    "khanom_tom": {
+        "English": "Coconut Dumplings",
+        "Thai": "ขนมต้ม",
+        "Ingredient": [
+            "Glutinous rice flour",
+            "Palm sugar",
+            "Grated coconut",
+            "Water",
+            "Salt"
+        ]
+    },
+    "tao_huay": {
+        "English": "Tofu Pudding in Ginger Syrup",
+        "Thai": "เต้าฮวยน้ำขิง",
+        "Ingredient": [
+            "Soft tofu",
+            "Ginger",
+            "Sugar",
+            "Water"
+        ]
+    },
+    "massaman": {
+        "English": "Massaman Curry",
+        "Thai": "แกงมัสมั่น",
+        "Ingredient": [
+            "Coconut milk",
+            "Massaman curry paste",
+            "Beef",
+            "Chicken",
+            "Potatoes",
+            "Onions",
+            "Peanuts",
+            "cashew nuts",
+            "Cinnamon",
+            "Star anise",
+            "Tamarind paste"
+        ]
+    },
+    "tom_yum_goong": {
+        "English": "Spicy Shrimp Soup",
+        "Thai": "ต้มยำกุ้ง",
+        "Ingredient": [
+            "Shrimp",
+            "Lemongrass",
+            "Kaffir lime leaves",
+            "Galangal",
+            "Thai bird's eye chili",
+            "Fish sauce",
+            "Lime juice",
+            "Mushroom",
+            "Cilantro",
+            "Sugar"
+        ]
+    },
+    "som_tum": {
+        "English": "Papaya Salad",
+        "Thai": "ส้มตำ",
+        "Ingredient": [
+            "Green papaya",
+            "Thai bird's eye chili",
+            "Garlic",
+            "Fish sauce",
+            "Lime juice",
+            "Palm sugar",
+            "Tamarind",
+            "Cherry tomatoes",
+            "Peanuts",
+            "Long beans"
+        ]
+    },
+    "khao_pad": {
+        "English": "Fried Rice",
+        "Thai": "ข้าวผัด",
+        "Ingredient": [
+            "Jasmine rice",
+            "Egg",
+            "Onion",
+            "Garlic",
+            "Chicken or shrimp",
+            "Fish sauce",
+            "Soy sauce",
+            "Lime",
+            "Spring onions",
+            "Cucumber"
+        ]
+    },
+    "gaeng_keow_wan_gai": {
+        "English": "Green Curry Chicken",
+        "Thai": "แกงเขียวหวานไก่",
+        "Ingredient": [
+            "Chicken",
+            "Green curry paste",
+            "Coconut milk",
+            "Thai eggplant",
+            "Bamboo shoots",
+            "Basil",
+            "Fish sauce",
+            "Palm sugar",
+            "Kaffir lime leaves"
+        ]
+    },
+    "bai_toey": {
+        "English": "Pandan Leaf Jelly",
+        "Thai": "ใบเตย",
+        "Ingredient": [
+            "Pandan leaves",
+            "Sugar",
+            "Agar-agar",
+            "Water",
+            "Coconut milk"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "fish": {
+    "Ingredient": ["Mackerel", "Fish sauce", "Tuna", "Salmon", "Anchovies", "Cod", "Sardines", "Trout"]
+  },
+  "shellfish": {
+    "Ingredient": ["Shrimp", "Lobster", "Crab", "Prawns", "Scallops", "Squid", "Octopus"]
+  },
+  "chicken": {
+    "Ingredient": ["Chicken", "Chicken broth", "Chicken skin", "Chicken liver", "Chicken nuggets"]
+  },
+  "soy": {
+    "Ingredient": ["Tofu", "Soy sauce", "Edamame", "Tempeh", "Soy milk", "Soy protein", "Miso", "Soybean oil"]
+  },
+  "egg": {
+    "Ingredient": ["Egg", "Egg whites", "Egg yolks", "Egg powder", "Mayonnaise", "Meringue", "Quiche", "Egg noodles"]
+  },
+  "peanut": {
+    "Ingredient": ["Peanuts", "Peanut butter", "Peanut oil", "Peanut flour", "Peanut paste", "Peanut brittle"]
+  },
+  "tree_nut": {
+    "Ingredient": ["Cashew nuts", "Almonds", "Walnuts", "Pecans", "Hazelnuts", "Brazil nuts", "Macadamia nuts", "Pine nuts", "Pistachios"]
+  },
+  "coconut": {
+    "Ingredient": ["Coconut milk", "Coconut water", "Coconut oil", "Shredded coconut", "Coconut cream", "Coconut flour"]
+  },
+  "wheat": {
+    "Ingredient": ["Wheat flour", "Bread", "Pasta", "Cake", "Pastry", "Cereal", "Crackers", "Pizza dough", "Bulgur", "Semolina"]
+  },
+  "dairy": {
+    "Ingredient": ["Cow's milk", "Cheese", "Butter", "Yogurt", "Cream", "Milk powder", "Casein", "Whey"]
+  }
+}

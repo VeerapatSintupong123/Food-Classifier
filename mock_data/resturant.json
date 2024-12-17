@@ -1,0 +1,103 @@
+{
+    "restaurant_1": {
+      "name": "Thai Royal Kitchen",
+      "menu": [
+        {"dish": "Chili Dip with Fried Mackerel", "price": "227.50 THB"},
+        {"dish": "Massaman Curry", "price": "332.50 THB"},
+        {"dish": "Stir-Fried Rice Noodles", "price": "245.00 THB"},
+        {"dish": "Grilled Chicken Skewers", "price": "262.50 THB"},
+        {"dish": "Tofu Pudding in Ginger Syrup", "price": "192.50 THB"}
+      ]
+    },
+    "restaurant_2": {
+      "name": "Bangkok Flavors",
+      "menu": [
+        {"dish": "Spicy Grilled Pork Salad", "price": "297.50 THB"},
+        {"dish": "Stir-Fried Wide Rice Noodles", "price": "245.00 THB"},
+        {"dish": "Coconut Dumplings", "price": "140.00 THB"},
+        {"dish": "Chili Dip with Fried Mackerel", "price": "210.00 THB"},
+        {"dish": "Massaman Curry", "price": "350.00 THB"}
+      ]
+    },
+    "restaurant_3": {
+      "name": "Siam Heritage",
+      "menu": [
+        {"dish": "Grilled Chicken Skewers", "price": "227.50 THB"},
+        {"dish": "Coconut-Rice Pancakes", "price": "139.65 THB"},
+        {"dish": "Pad Thai", "price": "245.00 THB"},
+        {"dish": "Massaman Curry", "price": "332.50 THB"},
+        {"dish": "Thai Fish Cakes", "price": "210.00 THB"}
+      ]
+    },
+    "restaurant_4": {
+      "name": "Golden Elephant Thai",
+      "menu": [
+        {"dish": "Coconut Dumplings", "price": "140.00 THB"},
+        {"dish": "Spicy Grilled Pork Salad", "price": "280.00 THB"},
+        {"dish": "Stir-Fried Rice Noodles", "price": "227.50 THB"},
+        {"dish": "Grilled Chicken Skewers", "price": "245.00 THB"},
+        {"dish": "Tofu Pudding in Ginger Syrup", "price": "192.50 THB"}
+      ]
+    },
+    "restaurant_5": {
+      "name": "Royal Thai Pavilion",
+      "menu": [
+            {"dish": "Massaman Curry", "price": "350.00 THB"},
+            {"dish": "Chili Dip with Fried Mackerel", "price": "192.50 THB"},
+            {"dish": "Grilled Chicken Skewers", "price": "227.50 THB"},
+            {"dish": "Coconut-Rice Pancakes", "price": "122.50 THB"},
+            {"dish": "Pad Thai", "price": "262.50 THB"}
+      ]
+    },
+    "restaurant_6": {
+        "name": "Spicy Thai Delights",
+        "menu": [
+            {"dish": "Spicy Shrimp Soup", "price": "297.50 THB"},
+            {"dish": "Papaya Salad", "price": "245.00 THB"},
+            {"dish": "Fried Rice", "price": "227.50 THB"},
+            {"dish": "Green Curry Chicken", "price": "332.50 THB"},
+            {"dish": "Pandan Leaf Jelly", "price": "140.00 THB"}
+        ]
+    },
+    "restaurant_7": {
+      "name": "Lotus Blossom Thai",
+      "menu": [
+        {"dish": "Fried Rice", "price": "227.50 THB"},
+        {"dish": "Green Curry Chicken", "price": "332.50 THB"},
+        {"dish": "Massaman Curry", "price": "358.75 THB"},
+        {"dish": "Grilled Chicken Skewers", "price": "262.50 THB"},
+        {"dish": "Pad Thai", "price": "245.00 THB"}
+      ]
+    },
+    "restaurant_8": {
+      "name": "Spicy Mango Thai",
+      "menu": [
+        {"dish": "Massaman Curry", "price": "332.50 THB"},
+        {"dish": "Spicy Shrimp Soup", "price": "297.50 THB"},
+        {"dish": "Coconut-Rice Pancakes", "price": "157.50 THB"},
+        {"dish": "Thai Fish Cakes", "price": "210.00 THB"},
+        {"dish": "Pandan Leaf Jelly", "price": "140.00 THB"}
+      ]
+    },
+    "restaurant_9": {
+      "name": "Sawasdee Thai Kitchen",
+      "menu": [
+        {"dish": "Pad Thai", "price": "245.00 THB"},
+        {"dish": "Green Curry Chicken", "price": "332.50 THB"},
+        {"dish": "Spicy Grilled Pork Salad", "price": "280.00 THB"},
+        {"dish": "Tofu Pudding in Ginger Syrup", "price": "201.25 THB"},
+        {"dish": "Massaman Curry", "price": "350.00 THB"}
+      ]
+    },
+    "restaurant_10": {
+      "name": "Thai Lotus",
+      "menu": [
+        {"dish": "Grilled Chicken Skewers", "price": "227.50 THB"},
+        {"dish": "Spicy Shrimp Soup", "price": "297.50 THB"},
+        {"dish": "Papaya Salad", "price": "245.00 THB"},
+        {"dish": "Stir-Fried Rice Noodles", "price": "245.00 THB"},
+        {"dish": "Thai Fish Cakes", "price": "210.00 THB"}
+      ]
+    }
+  }
+  
