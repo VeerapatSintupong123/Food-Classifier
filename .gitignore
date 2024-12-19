@@ -2,3 +2,5 @@ food-101
 checkpoint
 model
 dataset
+model.pt
+__pycache__
